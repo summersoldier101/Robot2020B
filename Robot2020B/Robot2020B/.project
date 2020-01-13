@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>Robot2020B</name>
@@ -15,3 +19,25 @@
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 	</natures>
 </projectDescription>
+<<<<<<< Updated upstream
+=======
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Robot2020B</name>
+	<comment>Project Robot2020B created by Buildship.</comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
+	</natures>
+</projectDescription>
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
